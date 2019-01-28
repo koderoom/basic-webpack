@@ -1,6 +1,7 @@
 export default class Component1 {
 
     addition(){
+        console.log(document);
         return "ADD";
     }
 
