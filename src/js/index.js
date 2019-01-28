@@ -8,6 +8,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Component1  from './comp1';
 import Component2 from './comp2';
 
+import clickme from './comp3';
+
 let comp1 = new Component1();
 console.log(comp1.addition());
 console.log(comp1.subtraction());
