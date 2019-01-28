@@ -1,5 +1,4 @@
-let clickme = function(){
+export default function clickme(){
     console.log("Click Me!!!");
 }
 
-export default clickme;
